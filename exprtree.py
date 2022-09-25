@@ -1,6 +1,3 @@
-#Sanjeevini R
-#IT-B
-#3122 21 5002 092
 #postfix to infix
 
 from LinkedStack import LinkedStack
