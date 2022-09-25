@@ -1,4 +1,4 @@
-#Sanjeevini R
+
 #Hashing - Separate Chaining, Linear & Quadratic Probing, Double Hashing
 
 class HashTable:
