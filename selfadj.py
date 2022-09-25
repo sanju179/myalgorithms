@@ -1,4 +1,3 @@
-#Sanjeevini IT-B
 #Self Adjusting Lists
 
 class SelfAdj:
